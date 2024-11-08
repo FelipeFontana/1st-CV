@@ -1,3 +1,3 @@
 # 1st-CV
-First CV using html+css
+Personal CV using html+css
 Repository created to upload my first resume on GitHub, developed following the guidelines from the DNC School course, using HTML and CSS.
